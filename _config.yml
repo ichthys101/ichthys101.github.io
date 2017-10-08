@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
+title: 'I thought maybe'
 pages_list: {'Blog':'/blog'}
 permalink: /blog/:year/:month/:day/:title
